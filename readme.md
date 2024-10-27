@@ -1,6 +1,6 @@
-## Movie Mania
+# Movie Mania
 
-# Project Requirement
+## Project Requirement
 
 মনে করুন আপনি একজন online ভিডিও অ্যাপের মালিক। অ্যাপের নাম মুভি ম্যানিয়া। আপনি আপনার ড্যাশবোর্ডে আপনার অ্যাপের users দের উপরের কিছু তথ্য জানতে চান। ধরে নিন আপনার backend টিম আপনার UI টিমকে এইরকম একটি
 API response দিয়েছে যেখানে মুভির review এবং rating সম্পর্কে ইনফর্মেশন পাওয়া যায়।
